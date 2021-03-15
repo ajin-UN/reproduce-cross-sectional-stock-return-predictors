@@ -5,6 +5,7 @@
   
     The main code is in the file core.py
     Read more about how to set up libraries in setup.py
+    To test predictors, use test.ipynb
     More infomation of predictors is in Characteristics Analysis.pdf
   
   
